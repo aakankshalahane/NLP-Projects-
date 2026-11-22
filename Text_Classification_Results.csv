@@ -1,0 +1,6 @@
+Customer_Message,Actual_Category,Predicted_Category,Prediction_Status,Human_Review,Corrected_Category
+I was charged extra money,Billing,Product,Incorrect,Reviewed,Product
+The parcel is missing,Delivery,Product,Incorrect,Pending,Product
+The product quality is very poor,Product,Product,Correct,Pending,Product
+I need to cancel and get a refund,Refund,Product,Incorrect,Pending,Product
+I am unhappy with the product quality,Product,Product,Correct,Pending,Product
