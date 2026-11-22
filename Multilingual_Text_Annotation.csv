@@ -1,0 +1,16 @@
+﻿Text,Expected_Language,Sentiment_Label,Annotation_Category,Detected_Language,Language_Match,Human_Review,Corrected_Language,Corrected_Sentiment,Review_Comments
+I love this product.,English,Positive,Positive Feedback,English,True,Reviewed,English,Positive,Labels verified manually.
+The service is terrible.,English,Negative,Negative Feedback,English,True,Pending,English,Negative,
+The delivery was okay.,English,Neutral,Neutral Feedback,English,True,Pending,English,Neutral,
+Ich liebe dieses Produkt.,German,Positive,Positive Feedback,German,True,Pending,German,Positive,
+Der Service ist schrecklich.,German,Negative,Negative Feedback,German,True,Pending,German,Negative,
+Die Lieferung war in Ordnung.,German,Neutral,Neutral Feedback,German,True,Pending,German,Neutral,
+J'aime beaucoup ce produit.,French,Positive,Positive Feedback,French,True,Pending,French,Positive,
+Le service est mauvais.,French,Negative,Negative Feedback,French,True,Pending,French,Negative,
+La livraison est correcte.,French,Neutral,Neutral Feedback,French,True,Pending,French,Neutral,
+Me encanta este producto.,Spanish,Positive,Positive Feedback,Spanish,True,Pending,Spanish,Positive,
+El servicio es terrible.,Spanish,Negative,Negative Feedback,Spanish,True,Pending,Spanish,Negative,
+La entrega está bien.,Spanish,Neutral,Neutral Feedback,Spanish,True,Pending,Spanish,Neutral,
+मुझे यह उत्पाद पसंद है।,Hindi,Positive,Positive Feedback,Hindi,True,Pending,Hindi,Positive,
+सेवा बहुत खराब है।,Hindi,Negative,Negative Feedback,Hindi,True,Pending,Hindi,Negative,
+डिलीवरी ठीक थी।,Hindi,Neutral,Neutral Feedback,Hindi,True,Pending,Hindi,Neutral,
