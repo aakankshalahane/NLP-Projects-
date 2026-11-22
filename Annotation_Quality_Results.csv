@@ -1,0 +1,16 @@
+Text,Annotator_1,Annotator_2,Agreement,Review_Status,Final_Label
+I absolutely love this product.,Positive,Positive,True,Pending,Pending
+The service was very disappointing.,Negative,Positive,False,Reviewed,Negative
+The delivery was quick.,Positive,Positive,True,Pending,Pending
+The product is terrible.,Negative,Negative,True,Pending,Pending
+I am happy with my purchase.,Positive,Positive,True,Pending,Pending
+The quality is not good.,Negative,Negative,True,Pending,Pending
+Excellent customer support.,Positive,Positive,True,Pending,Pending
+The product is okay.,Neutral,Neutral,True,Pending,Pending
+I would recommend this.,Positive,Positive,True,Pending,Pending
+I regret buying this product.,Negative,Negative,True,Pending,Pending
+The packaging was beautiful.,Positive,Neutral,False,Pending,Pending
+The service was extremely poor.,Negative,Negative,True,Pending,Pending
+I am satisfied with the result.,Positive,Positive,True,Pending,Pending
+The product works perfectly.,Positive,Positive,True,Pending,Pending
+I will never buy this again.,Negative,Negative,True,Pending,Pending
