@@ -1,0 +1,11 @@
+Question,Response_A,Response_B,Expected_Better_Response,A_Accuracy,A_Relevance,A_Clarity,A_Completeness,A_Helpfulness,B_Accuracy,B_Relevance,B_Clarity,B_Completeness,B_Helpfulness,Total_Score_A,Total_Score_B,Selected_Response
+What is Artificial Intelligence?,AI is the simulation of human intelligence by machines.,Artificial Intelligence is a type of computer hardware.,A,5,5,5,4,5,1,2,3,1,1,24,8,A
+What is Python?,Python is a high-level programming language.,Python is a type of database.,A,5,5,5,4,5,1,2,3,1,1,24,8,A
+What is Machine Learning?,Machine Learning enables computers to learn patterns from data.,Machine Learning is only used for making websites.,A,5,5,5,4,5,1,2,3,1,1,24,8,A
+What is Deep Learning?,Deep Learning uses multiple layers of neural networks.,Deep Learning is a spreadsheet application.,A,5,5,5,4,5,1,2,3,1,1,24,8,A
+What is NLP?,NLP helps computers understand and process human language.,NLP means Network Learning Process.,A,5,5,5,4,5,1,2,3,1,1,24,8,A
+What is Computer Vision?,Computer Vision enables computers to interpret images and videos.,Computer Vision is used only for editing photos.,A,5,5,5,4,5,1,2,3,1,1,24,8,A
+What is Data Annotation?,Data Annotation is the process of labeling data for machine learning.,Data Annotation means deleting unnecessary data.,A,5,5,5,4,5,1,2,3,1,1,24,8,A
+What is Generative AI?,"Generative AI creates new content such as text, images and audio.",Generative AI only performs mathematical calculations.,A,5,5,5,4,5,1,2,3,1,1,24,8,A
+What is a Neural Network?,A neural network is a computing model inspired by the human brain.,A neural network is a computer storage device.,A,5,5,5,4,5,1,2,3,1,1,24,8,A
+What is an LLM?,An LLM is a large language model trained on large amounts of text.,An LLM is a programming language.,A,5,5,5,4,5,1,2,3,1,1,24,8,A

@@ -1,0 +1,16 @@
+Review,Sentiment,Positive_Score,Negative_Score,Neutral_Score,Compound_Score,Human_Review,Corrected_Sentiment
+I absolutely love this product. It works perfectly!,Positive,0.642,0.0,0.358,0.8746,Reviewed,Positive
+The customer service was amazing.,Positive,0.487,0.0,0.513,0.5859,Pending,Positive
+This is the best purchase I have ever made.,Positive,0.375,0.0,0.625,0.6369,Pending,Positive
+I am very happy with the quality.,Positive,0.444,0.0,0.556,0.6115,Pending,Positive
+The delivery was quick and easy.,Positive,0.367,0.0,0.633,0.4404,Pending,Positive
+I hate this product. It is completely useless.,Negative,0.0,0.576,0.424,-0.7778,Pending,Negative
+Very disappointed with the service.,Negative,0.0,0.459,0.541,-0.5256,Pending,Negative
+The quality is terrible and cheap.,Negative,0.0,0.383,0.617,-0.4767,Pending,Negative
+I will never buy this again.,Neutral,0.0,0.0,1.0,0.0,Pending,Neutral
+The product stopped working after one day.,Negative,0.0,0.241,0.759,-0.2263,Pending,Negative
+The package arrived today.,Neutral,0.0,0.0,1.0,0.0,Pending,Neutral
+The product has three different colours.,Neutral,0.0,0.0,1.0,0.0,Pending,Neutral
+I received my order yesterday.,Neutral,0.0,0.0,1.0,0.0,Pending,Neutral
+"The product is okay, nothing special.",Negative,0.233,0.277,0.49,-0.092,Pending,Negative
+It works as expected.,Neutral,0.0,0.0,1.0,0.0,Pending,Neutral

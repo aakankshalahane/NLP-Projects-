@@ -1,0 +1,23 @@
+Sentence,Entity_Text,Entity_Label,Entity_Meaning,Start_Position,End_Position,Human_Review,Corrected_Label
+Sundar Pichai is the CEO of Google.,Sundar Pichai,PERSON,"People, including fictional",0,13,Pending,PERSON
+Sundar Pichai is the CEO of Google.,Google,ORG,"Companies, agencies, institutions, etc.",28,34,Reviewed,ORG
+Elon Musk founded SpaceX in the United States.,Elon Musk,PERSON,"People, including fictional",0,9,Pending,PERSON
+Elon Musk founded SpaceX in the United States.,the United States,GPE,"Countries, cities, states",28,45,Pending,GPE
+Microsoft opened a new office in Berlin.,Microsoft,ORG,"Companies, agencies, institutions, etc.",0,9,Pending,ORG
+Microsoft opened a new office in Berlin.,Berlin,GPE,"Countries, cities, states",33,39,Pending,GPE
+Marie Curie was born in Warsaw in 1867.,Marie Curie,PERSON,"People, including fictional",0,11,Pending,PERSON
+Marie Curie was born in Warsaw in 1867.,Warsaw,GPE,"Countries, cities, states",24,30,Pending,GPE
+Marie Curie was born in Warsaw in 1867.,1867,DATE,Absolute or relative dates or periods,34,38,Pending,DATE
+Apple launched a new product in California.,Apple,ORG,"Companies, agencies, institutions, etc.",0,5,Pending,ORG
+Apple launched a new product in California.,California,GPE,"Countries, cities, states",32,42,Pending,GPE
+Aakanksha is learning Artificial Intelligence in India.,Aakanksha,PERSON,"People, including fictional",0,9,Pending,PERSON
+Aakanksha is learning Artificial Intelligence in India.,Artificial Intelligence,ORG,"Companies, agencies, institutions, etc.",22,45,Pending,ORG
+Aakanksha is learning Artificial Intelligence in India.,India,GPE,"Countries, cities, states",49,54,Pending,GPE
+Amazon announced a new project in London.,Amazon,ORG,"Companies, agencies, institutions, etc.",0,6,Pending,ORG
+Amazon announced a new project in London.,London,GPE,"Countries, cities, states",34,40,Pending,GPE
+Albert Einstein was born in Germany.,Albert Einstein,PERSON,"People, including fictional",0,15,Pending,PERSON
+Albert Einstein was born in Germany.,Germany,GPE,"Countries, cities, states",28,35,Pending,GPE
+OpenAI developed ChatGPT in San Francisco.,OpenAI,ORG,"Companies, agencies, institutions, etc.",0,6,Pending,ORG
+OpenAI developed ChatGPT in San Francisco.,San Francisco,GPE,"Countries, cities, states",28,41,Pending,GPE
+The conference will take place in Munich on 15 June 2026.,Munich,GPE,"Countries, cities, states",34,40,Pending,GPE
+The conference will take place in Munich on 15 June 2026.,15 June 2026,DATE,Absolute or relative dates or periods,44,56,Pending,DATE
