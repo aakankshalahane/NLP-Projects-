@@ -1,0 +1,6 @@
+Text,Actual_Label,Predicted_Label,Status,Human_Review,Corrected_Label
+Have a wonderful day.,Safe,Inappropriate,Incorrect,Reviewed,Inappropriate
+I am going to cause serious harm.,Potentially Harmful,Inappropriate,Incorrect,Pending,Inappropriate
+Stop being so annoying.,Inappropriate,Inappropriate,Correct,Pending,Inappropriate
+I appreciate your support.,Safe,Inappropriate,Incorrect,Pending,Inappropriate
+I will hurt you.,Potentially Harmful,Inappropriate,Incorrect,Pending,Inappropriate
